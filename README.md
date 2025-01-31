@@ -1,4 +1,4 @@
-![Captura de tela 2025-01-31 134735](https://github.com/user-attachments/assets/e09b59b2-9dbe-4438-8f22-b36718943ef6)# Challenge Amigo Secreto
+# Challenge Amigo Secreto
 
 O projeto "Amigo Secreto" é uma aplicação web simples que permite aos usuários adicionar nomes de amigos a uma lista e realizar um sorteio aleatório para determinar quem é o "amigo secreto". Este projeto foi desenvolvido com o objetivo de reforçar habilidades em lógica de programação utilizando JavaScript, HTML e CSS.
 
