@@ -24,3 +24,5 @@ Este projeto foca em desenvolver a lógica de programação por meio da implemen
 1. **Clone o Repositório**:
    ```bash
    git clone https://github.com/camila-canoa/challenge-amigo-secreto.git
+
+   ![Visão Geral do Projeto](assets/challenge-amigo-secreto.png)
